@@ -324,7 +324,7 @@ The full training pipeline runs on Kaggle with the [Home Credit Default Risk](ht
 
 ---
 
-## 🧪 W&B Experiment Tracking
+## W&B Experiment Tracking
 
 All experiments are tracked with [Weights & Biases](https://wandb.ai/):
 
@@ -345,7 +345,7 @@ wandb.login()
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
