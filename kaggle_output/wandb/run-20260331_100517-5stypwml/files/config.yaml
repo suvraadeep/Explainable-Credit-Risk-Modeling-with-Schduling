@@ -1,0 +1,85 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            r9p1l10ektr2cejk3i5ptwnrqt2hyhzc:
+                codePath: kaggle.ipynb
+                cpu_count: 2
+                cpu_count_logical: 4
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "8656922775552"
+                        used: "7347718631424"
+                email: suvraadeep@gmail.com
+                executable: /usr/bin/python3
+                gpu: Tesla T4
+                gpu_count: 2
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "16106127360"
+                      name: Tesla T4
+                      uuid: GPU-c7ebff42-1f98-33a6-9169-a1e3925c4f52
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "16106127360"
+                      name: Tesla T4
+                      uuid: GPU-4f057d35-8a41-ce55-5d7d-60c77ebb7156
+                host: 7a129c53b2b5
+                memory:
+                    total: "33662472192"
+                os: Linux-6.6.113+-x86_64-with-glibc2.35
+                program: kaggle.ipynb
+                python: CPython 3.12.12
+                root: /kaggle/working
+                startedAt: "2026-03-31T10:05:17.484244Z"
+                writerId: r9p1l10ektr2cejk3i5ptwnrqt2hyhzc
+        m: []
+        python_version: 3.12.12
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 6
+                - 8
+                - 11
+                - 12
+                - 35
+                - 49
+                - 53
+                - 54
+                - 71
+                - 75
+                - 105
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 6
+                - 8
+                - 11
+                - 12
+                - 35
+                - 49
+                - 53
+                - 54
+                - 71
+                - 75
+                - 105
+            "3":
+                - 2
+                - 13
+                - 15
+            "4": 3.12.12
+            "5": 0.25.0
+            "6": 4.41.2
+            "8":
+                - 1
+                - 2
+                - 12
+            "12": 0.25.0
+            "13": linux-x86_64

@@ -1,0 +1,1 @@
+{"nlp_features":32,"total_features":234,"ensemble_oof_auc":0.7873122800363673,"_timestamp":1.7749517409135814e+09,"lgbm_optuna_best":0.7851459078093472,"_runtime":0,"_step":0,"drift_detections":7,"xgb_optuna_best":0.7859640302081613,"lgbm_baseline_auc":0.7799152308164182,"_wandb":{"runtime":0}}
